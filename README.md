@@ -20,7 +20,7 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 8. Prediction and submission
 
 
-#### Set up the computing environment
+#### Computing environment setup
 1. Use Google Cloud or Amazon AWS as computing platform
 
 
@@ -37,7 +37,7 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
   
 #### A quick benchmark run
 1. Use Random Forst (100 trees) without any feature enginnering to generate a quick submission. This submission can be used as a benchmark for further improvement. Plot the importance of the feaures to get a sense what are the most important features for prediction.
-2. Train a simple Random Forest model and plot the confusion matrix for classfication or true-prediction-scatter-plot for regression. Find out where most the prediction errors come from. For example, it may come from certain categories. Need to split original training data into training and testing data. 
+2. Train a simple Random Forest model and plot the confusion matrix for classfication or true-prediction-value-scatter-plot for regression. Find out where most the prediction errors come from. For example, it may come from certain categories. Need to split original training data into training and testing data. 
 
 
 ---
