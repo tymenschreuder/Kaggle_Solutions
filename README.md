@@ -9,6 +9,7 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 
 #### General workflow  
 1. Computing environment setup
+2. A quick benchmark run
 2. Exploratory data analysis 
 2. Data	preprocessing
 3. Feature enginnering
@@ -23,18 +24,22 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 1. Use Google Cloud or Amazon AWS as computing platform
 
 
+#### A quick benchmark run
+Use Random Forst (100 trees) without any feature enginnering to generate a quick submission. This submission can be used as a benchmark for further improvement. 
+
+
 #### Exploratory data analysis 
 1. Calculate summary statistics.  
 -. total number of samples and variables  
 -. number of missing values and zeros  
--. mean, sd, min, max values for continuous variable  
+-. mean, sd, min, max values for continuous variables  
 -. number of unqiue values/categories for categorial variables  
 2. Plot 
 
 
   
 
-  
+
 ---
 ## Section two: Kaggle winner solutions and some useful tutorials
 
