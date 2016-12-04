@@ -9,8 +9,8 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 
 #### General workflow  
 1. Computing environment setup
-2. A quick benchmark run
 2. Exploratory data analysis 
+2. A quick benchmark run
 2. Data	preprocessing
 3. Feature enginnering
 4. Feature selection
@@ -33,7 +33,7 @@ Use Random Forst (100 trees) without any feature enginnering to generate a quick
 -. total number of samples and variables  
 -. number of missing values and zeros  
 -. mean, sd, min, max values for continuous variables  
--. number of unqiue values/categories for categorial variables  
+-. number of unqiue values/categories for categorial and ordinal variables  
 2. Plot 
 
 
