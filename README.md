@@ -8,9 +8,22 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 ## Section one: my summary of those winner solutions
 
 #### General workflow  
-1. Set up the working machine and 
+1. Working environment setup
+2. Exploratory data analysis 
+2. Data	preprocessing
+3. Feature enginnering
+4. Feature selection
+5. Model evaluation and selection
+6. Parameter turning
+7. Model ensembling
+8. Prediction and submission
 
 
+#### Set up the working machine and environment
+1. Use Google Cloud or Amazon AWS as computing platform
+
+
+#### Exploratory data analysis 
 
 
 ---
