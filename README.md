@@ -1,6 +1,12 @@
 # Paste Kaggle solutions from winners and tutorials
+This is a collection of solutions for Kaggle competitions and a summary of useful skills I learned from those solutions. I divided the contents into two sections, the first section is my summary of those winner solutions and the second section is the collection of those solutions and some useful tutorials.
 
 
+# Section One: My Summary
+
+## General workflow 
+
+# Section Two: Kaggle Winner solutions and some useful tutorials
 
 [Beating Kaggle the easy way by Ying Dong](https://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf)
 
