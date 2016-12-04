@@ -8,7 +8,7 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 ## Section one: my summary of those winner solutions
 
 #### General workflow  
-1. Working environment setup
+1. Computing environment setup
 2. Exploratory data analysis 
 2. Data	preprocessing
 3. Feature enginnering
@@ -19,12 +19,17 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 8. Prediction and submission
 
 
-#### Set up the working machine and environment
+#### Set up the computing environment
 1. Use Google Cloud or Amazon AWS as computing platform
 
 
 #### Exploratory data analysis 
-
+1. Calculate summary statistics.
+-. total number of samples and variables
+-. number of missing values and zeros
+-. mean, sd, min, max values for continuous variable
+-. number of unqiue values/categories for categorial variables
+2. Plot 
 
 ---
 ## Section two: Kaggle winner solutions and some useful tutorials
