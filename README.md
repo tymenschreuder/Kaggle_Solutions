@@ -2,8 +2,8 @@
 This is a collection of solutions for Kaggle competitions and a summary of useful skills I learned from those solutions. I divided the contents into two sections, the first section is my summary of those winner solutions and the second section is the collection of those solutions and some useful tutorials.
 
 
-
-
+  
+  
 ---
 ## Section one: my summary of those winner solutions
 
@@ -24,13 +24,17 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 
 
 #### Exploratory data analysis 
-1. Calculate summary statistics.
--. total number of samples and variables
--. number of missing values and zeros
--. mean, sd, min, max values for continuous variable
--. number of unqiue values/categories for categorial variables
+1. Calculate summary statistics.  
+-. total number of samples and variables  
+-. number of missing values and zeros  
+-. mean, sd, min, max values for continuous variable  
+-. number of unqiue values/categories for categorial variables  
 2. Plot 
 
+
+  
+
+  
 ---
 ## Section two: Kaggle winner solutions and some useful tutorials
 
