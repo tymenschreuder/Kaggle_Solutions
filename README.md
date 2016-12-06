@@ -49,7 +49,7 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 (1) Keep the number of trees small (<20 trees)
 (2) Keep the max depth of the tree small (<7)
 (3) Iteratively run the feature importance analysis by removing the most(or least) important features.
-
+3. Decision trees (XGBoost, Random Forest) are not affected multi-collinearity.
 
 #### Model evaluation and selection
 1. Popular models: Random Forst, Extra Trees, XGBoost
@@ -83,5 +83,12 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 9. [Winning solution of Kaggle Higgs competition: what a single model can do?](https://no2147483647.wordpress.com/2014/09/17/winning-solution-of-kaggle-higgs-competition-what-a-single-model-can-do/)
 
 10. [Feature Importance Analysis with XGBoost in Tax audit](http://www.slideshare.net/MichaelBENESTY/feature-importance-analysis-with-xgboost-in-tax-audit)
+
+11. [Write-up for Liberty Mutual's Hazard Prediction](http://jianghao.org/blog/20150905/liberty-mutual-group-hazard-prediction.html)
+
+12. [Understanding XGBoost Model on Otto Dataset](https://kaggle2.blob.core.windows.net/forum-message-attachments/76715/2435/Understanding%20XGBoost%20Model%20on%20Otto%20Dataset.html?sv=2015-12-11&sr=b&sig=zJn5WiSMSM7XHMYONF5LVnUt2E35AtqexBCUau9lTA0%3D&se=2016-12-09T02%3A10%3A50Z&sp=r)
+
+
+13. [Does XGBoost handle multicollinearity by itself?](http://datascience.stackexchange.com/questions/12554/does-xgboost-handle-multicollinearity-by-itself)
 
 more
