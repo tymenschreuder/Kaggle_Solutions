@@ -50,6 +50,9 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 (2) Keep the max depth of the tree small (<7)
 (3) Iteratively run the feature importance analysis by removing the most(or least) important features.
 3. Decision trees (XGBoost, Random Forest) are not affected multi-collinearity.
+4. Date variable:
+(1) Extract day, month, year, weekend, weekday, holiday etc. as new features
+(2) Calculate the length between two dates
 
 #### Model evaluation and selection
 1. Popular models: Random Forst, Extra Trees, XGBoost
