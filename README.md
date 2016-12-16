@@ -95,4 +95,5 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 
 13. [Does XGBoost handle multicollinearity by itself?](http://datascience.stackexchange.com/questions/12554/does-xgboost-handle-multicollinearity-by-itself)
 
+14. [Bosch Production Line Performance Competition Winners' Interview: 3rd Place, Team Data Property Avengers | Darragh, Marios, Mathias, & Stanislav](http://blog.kaggle.com/2016/12/15/bosch-production-line-performance-competition-winners-interview-3rd-place-team-data-property-avengers-darragh-marios-mathias-stanislav/)
 more
