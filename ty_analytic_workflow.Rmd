@@ -1,8 +1,11 @@
-# Past Kaggle solutions from winners
-This is a collection of solutions for Kaggle competitions and a summary of useful skills that I have learned from those solutions. I divided the contents into two sections, the first section is my summary of those winner solutions and the second section is the collection of those solutions and some useful tutorials.
+---
+title: "Project Template and Demos"
+author: "Tymen Schreuder"
+github-repo: /tymenschreuder/ty_analytic_workflow
+description: "Intent is to serve 1) me, as knowledge base to remind me how I implemented something in past 2) potentially develop into an educational guide for those learning machine learning."
+---
 
-
-## Section one: my summary of those winner solutions
+# My Own Personal Preference Analytic Workflow
 
 #### General workflow  
 1. Computing environment setup
@@ -16,11 +19,8 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 7. Model ensembling
 8. Prediction and submission
 
-
 #### Computing environment setup
 1. Use Google Cloud or Amazon AWS as computing platform
-
-
 
 #### Exploratory data analysis 
 1. Calculate summary statistics.  
@@ -30,8 +30,6 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 -. number of unqiue values/categories for categorial and ordinal variables  
 2. Plot 
 
-
-  
 #### A quick benchmark run
 1. Use Random Forst (100 trees) without any feature enginnering to generate a quick submission. This submission can be used as a benchmark for further improvement. Plot the importance of the feaures to get a sense what are the most important features for prediction.
 2. Train a simple Random Forest model and plot the confusion matrix for classfication or true-prediction-value-scatter-plot for regression. Find out where most the prediction errors come from. For example, it may come from certain categories. Need to split original training data into training and testing data. 
@@ -60,37 +58,3 @@ This is a collection of solutions for Kaggle competitions and a summary of usefu
 2. For Random Forest and Extra Trees, two important parameters that can be tuned: number of trees and the number of randomly selected features to seek split.
 3. XGBoost:
 (1) small eta -> small shinkage -> less overfitting -> slow convergence -> need more trees
-
----
-## Section two: Kaggle winner solutions and some useful tutorials
-
-1. [Beating Kaggle the easy way by Ying Dong](https://www.ke.tu-darmstadt.de/lehre/arbeiten/studien/2015/Dong_Ying.pdf)
-
-2. [How to get into the top 15 of a Kaggle competition using Python by Vik Paruchuri](https://www.dataquest.io/blog/kaggle-tutorial/)
-
-3. [Awesome XGBoost](https://github.com/dmlc/xgboost/blob/master/demo/README.md)
-
-4. [1st Place Solution for Search Results Relevance Competition on Kaggle](https://github.com/ChenglongChen/Kaggle_CrowdFlower)
-
-
-5. [Kaggle Competition Past Solutions](http://www.chioka.in/kaggle-competition-solutions/)
-
-6. [Learning Predictive Analytics: Kaggle Competition Solutions](http://analyticscosm.com/learning-predictive-analytics-kaggle-competition-solutions/)
-
-7. [No Free Hunch](http://blog.kaggle.com/)
-
-8. [Kaggle past solutions](https://www.kaggle.com/wiki/PastSolutions)
-
-9. [Winning solution of Kaggle Higgs competition: what a single model can do?](https://no2147483647.wordpress.com/2014/09/17/winning-solution-of-kaggle-higgs-competition-what-a-single-model-can-do/)
-
-10. [Feature Importance Analysis with XGBoost in Tax audit](http://www.slideshare.net/MichaelBENESTY/feature-importance-analysis-with-xgboost-in-tax-audit)
-
-11. [Write-up for Liberty Mutual's Hazard Prediction](http://jianghao.org/blog/20150905/liberty-mutual-group-hazard-prediction.html)
-
-12. [Understanding XGBoost Model on Otto Dataset](https://kaggle2.blob.core.windows.net/forum-message-attachments/76715/2435/Understanding%20XGBoost%20Model%20on%20Otto%20Dataset.html?sv=2015-12-11&sr=b&sig=zJn5WiSMSM7XHMYONF5LVnUt2E35AtqexBCUau9lTA0%3D&se=2016-12-09T02%3A10%3A50Z&sp=r)
-
-
-13. [Does XGBoost handle multicollinearity by itself?](http://datascience.stackexchange.com/questions/12554/does-xgboost-handle-multicollinearity-by-itself)
-
-14. [Bosch Production Line Performance Competition Winners' Interview: 3rd Place, Team Data Property Avengers | Darragh, Marios, Mathias, & Stanislav](http://blog.kaggle.com/2016/12/15/bosch-production-line-performance-competition-winners-interview-3rd-place-team-data-property-avengers-darragh-marios-mathias-stanislav/)
-more

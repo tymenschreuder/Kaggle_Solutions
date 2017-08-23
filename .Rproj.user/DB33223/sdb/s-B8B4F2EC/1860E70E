@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Project Template and Demos\"\nauthor: \"Tymen Schreuder\"\ngithub-repo: /tymenschreuder/ty_analytic_workflow\ndescription: \"Intent is to serve 1) me, as knowledge base to remind me how I implemented something in past 2) potentially develop into an educational guide for those learning machine learning.\"\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n## GitHub Documents\n\nThis is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.\n\n## Including Code\n\nYou can include R code in the document as follows:\n\n```{r cars}\nsummary(cars)\n```\n\n## Including Plots\n\nYou can also embed plots, for example:\n\n```{r pressure, echo=FALSE}\nplot(pressure)\n```\n\nNote that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n",
+    "created" : 1503476910704.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "597264053",
+    "id" : "1860E70E",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1503478782147,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled8"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

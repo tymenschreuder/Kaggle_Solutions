@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"\"\ndate: \"`r Sys.Date()`\"\noutput:\n  rmdformats::readthedown:\n    highlight: kate\n---\n\n\n```{r knitr_init, echo=FALSE, cache=FALSE}\nlibrary(knitr)\nlibrary(rmdformats)\n\n## Global options\noptions(max.print=\"75\")\nopts_chunk$set(echo=FALSE,\n\t             cache=TRUE,\n               prompt=FALSE,\n               tidy=TRUE,\n               comment=NA,\n               message=FALSE,\n               warning=FALSE)\nopts_knit$set(width=75)\n```\n\n",
+    "created" : 1503476590241.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1787297396",
+    "id" : "5B626790",
+    "lastKnownWriteTime" : 4294967295,
+    "last_content_update" : 1503476590241,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled7"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
